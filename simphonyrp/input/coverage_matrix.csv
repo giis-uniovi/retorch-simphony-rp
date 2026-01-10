@@ -1,0 +1,22 @@
+Test Case/HU;1;2;3;4,1;4,2;4,3;4,4;4,5;4,6;5,1;5,2;5,3;6,1;6,2;6,3;6,4;6,5;6,6;6,7;6,8;7,1;7,2;7,3;7,4;7,5;7,6;7,7;7,8;8;9;10;11;12;13;14;15;16,1;16,2;16,3
+TC21: oneToOneChatInSessionChrome;X;X;;;;;;;;;;;X;;;X;X;;;X;X;;;X;X;;;;;X;;;;;;;;;
+TC13: courseRestOperations;X;X;X;;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;;;;;;;;
+TC14: courseInfoRestOperations;X;X;X;;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;;;X;;;;;
+TC15: sessionRestOperations;X;X;X;X;X;X;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC16: forumRestOperations;X;X;X;;;;;;X;X;X;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC17: filesRestOperations;X;X;X;;;;;X;;;;X;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC18: attendersRestOperations;X;X;X;;;;X;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;X;;
+TC19: sessionTest;X;X;;;;;;;;;;;X;;;X;;;;;X;;;X;;;;;;X;;;;;;;;;
+TC20: oneToOneVideoAudioSessionChrome;X;X;;X;X;X;;;;;;;X;X;X;X;;X;X;X;X;X;;X;;X;;X;;X;;;;;;;;;
+TC04: studentCourseMainTest;X;X;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;X;;;
+TC05: teacherCourseMainTest;X;X;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;X;;;
+TC06: teacherCreateAndDeleteCourseTest;X;X;X;;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;;;;;;;;
+TC07: teacherEditCourseValues;X;X;X;;;;;;;X;;;;;;;;;;;;;;;;;;;;X;X;;;X;;;;;
+TC08:teacherDeleteCourseTest;X;X;X;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC09: forumLoadEntriesTest;X;X;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC10: forumNewEntryTest;X;X;;;;;;;;;X;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC11: forumNewCommentTest;X;X;;;;;;;;;X;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC12: forumNewReply2CommentTest;X;X;;;;;;;;;X;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC02: spiderLoggedTest;X;X;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
+TC03: spiderUnLoggedTest;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+TC01: loginTest;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X;;;;;;;;;
