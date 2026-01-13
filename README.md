@@ -16,8 +16,6 @@ The replication package structure is depicted as follows:
 ├── 🏗️ pyproject.toml
 ├── 📖 README.md
 │
-├── 📁 docs/
-│
 ├── 📦 simphonyrp/
 │   ├── 🐍 core.py
 │   ├── 🐍 experimentation.py
@@ -56,8 +54,6 @@ The replication package structure is depicted as follows:
                 ├── 🚀 minimization-Jenkinsfile
                 └── 🚀 ...
 ```
-
-- `📁 docs/` contains supplementary data used during experimentation.
 
 - `📦 simphonyrp/` contains the Python scripts used to compute the similarity matrix, as well as the prioritization and
   minimization procedures described in the article. It includes `🐍 core.py`, which holds the main code; a `📦 helpers/`
