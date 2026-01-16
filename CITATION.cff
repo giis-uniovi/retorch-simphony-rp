@@ -19,9 +19,9 @@ authors:
   - family-names: "Morán"
     given-names: "Jesús"
     orcid: "https://orcid.org/0000-0002-7544-3901"
-title: "Replication package for 'SIMPHONY: Similarity-based Resource Orchestration for System Testing'"
+title: "Replication package for 'A Framework for Similarity-based and Resource-aware Orchestration of End-to-End Test Cases'"
 version: "1.0"
-doi: "TO-DO"
+doi: "10.5281/zenodo.17442306"
 date-released: "2026-01-25"
 url: "https://github.com/giis-uniovi/retorch-simphony-rp"
 preferred-citation:
@@ -45,7 +45,7 @@ preferred-citation:
     - family-names: "Morán"
       given-names: "Jesús"
       orcid: "https://orcid.org/0000-0002-7544-3901"
-  title: "SIMPHONY: Similarity-based Resource Orchestration for System Testing"
+  title: "A Framework for Similarity-based and Resource-aware Orchestration of End-to-End Test Cases"
   year: 2026
   collection-title: "Proceedings of the 2026 IEEE/ACM International Conference on Automation of Software Test (AST) "
   conference:
@@ -61,4 +61,4 @@ preferred-citation:
   pages:
     start: 1 #TO-DO
     end: 10 #TO-DO
-  doi: "TO-DO"
+  doi: "10.1145/3793654.3793742"

@@ -1,8 +1,8 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17442307.svg)](https://doi.org/10.5281/zenodo.17442307)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17442306.svg)](https://doi.org/10.5281/zenodo.17442306)
 
-# Replication package for *'SIMPHONY: Similarity-based Resource Orchestration for System Testing'*
+# Replication package for *'A Framework for Similarity-based and Resource-aware Orchestration of End-to-End Test Cases'*
 
-This repository contains the replication package of the paper *SIMPHONY: Similarity-based Resource Orchestration for System Testing*
+This repository contains the replication package of the paper *A Framework for Similarity-based and Resource-aware Orchestration of End-to-End Test Cases*
 published at *7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)*
 
 This replication package includes the different python scripts, Jenkinsfiles, docker-compose files, environment files `.env` and coverage data in both `.xml` and `.exec` formats.
@@ -72,7 +72,7 @@ The replication package structure is depicted as follows:
     baseline).
 
 
-The replication package data is also archived on [Zenodo](https://doi.org/10.5281/zenodo.17442307)
+The replication package data is also archived on [Zenodo](https://doi.org/10.5281/zenodo.17442306)
 
 ## Experimental Subject
 
@@ -131,7 +131,7 @@ paper itself.
 
 ## Citing this work
 
-- Cristian Augusto, Antonia Bertolino, Guglielmo De Angelis, Claudio de la Riva, Francesca Lonetti and Jesús Morán, *“SIMPHONY: Similarity-based Resource Orchestration for System Testing”* at *7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)*   [https://doi.org/XXXXX](TO-DO) - [Full Paper available](TO-DO) - [Authors version](TO-DO) -
+- Cristian Augusto, Antonia Bertolino, Guglielmo De Angelis, Claudio de la Riva, Francesca Lonetti and Jesús Morán, *“A Framework for Similarity-based and Resource-aware Orchestration of End-to-End Test Cases”* at *7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)*,   [doi: 10.1145/3793654.3793742](https://doi.org/10.1145/3793654.3793742) - [Full Paper available](https://doi.org/10.1145/3793654.3793742) - [Authors version](TO-DO) -
   [Download citation](TO-DO)
 
 ## Acknowledgments
@@ -140,3 +140,5 @@ This work was supported in part by the project EQUAVEL (PID2022-137646OB-C32) fu
 UE and in part by the European [HORIZON-KDT-JU research project MATISSE](https://matisse-kdt.eu/): *"Model-based
 engineering of Digital Twins for early verification and validation of Industrial Systems"*, HORIZON-KDT-JU-2023-2-
 RIA, Proposal number: 101140216-2, KDT232RIA_00017, and also by the (partial) support of the PNRR MUR project [FAIR (PE0000013)](https://www.mur.gov.it/sites/default/files/2023-02/D.D.%20341%20_PE0000013_rev181022NF.pdf).
+This paper has been also partially supported by the Italian MUR PRIN 2022 Project: Domain (Grant Agreement #2022TSYYKJ) financed by NextGenEu.
+Guglielmo De Angelis is with the Italian Research Group: [INdAM-GNCS](https://www.altamatematica.it/gncs/)
