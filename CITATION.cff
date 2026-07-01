@@ -59,6 +59,6 @@ preferred-citation:
     date-start: "2026-04-12"
     date-end: "2026-04-18"
   pages:
-    start: 1 #TO-DO
-    end: 10 #TO-DO
+    start: 71
+    end: 81
   doi: "10.1145/3793654.3793742"
