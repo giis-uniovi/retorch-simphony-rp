@@ -131,7 +131,7 @@ paper itself.
 
 ## Citing this work
 
-- Cristian Augusto, Antonia Bertolino, Guglielmo De Angelis, Claudio de la Riva, Francesca Lonetti and Jesús Morán, *“A Framework for Similarity-based and Resource-aware Orchestration of End-to-End Test Cases”* at *7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)*,   [doi: 10.1145/3793654.3793742](https://doi.org/10.1145/3793654.3793742) - [Full Paper available](https://doi.org/10.1145/3793654.3793742) - [Authors version](TO-DO) -
+- Cristian Augusto, Antonia Bertolino, Guglielmo De Angelis, Claudio de la Riva, Francesca Lonetti and Jesús Morán, *“A Framework for Similarity-based and Resource-aware Orchestration of End-to-End Test Cases”* at *7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)*,Association for Computing Machinery, New York, NY, USA, 71–81   [doi: 10.1145/3793654.3793742](https://doi.org/10.1145/3793654.3793742) - [Full Paper available](https://doi.org/10.1145/3793654.3793742) - [Authors version](TO-DO) -
   [Download citation](TO-DO)
 
 ## Acknowledgments
