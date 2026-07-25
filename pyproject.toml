@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "simphonyrp"
 version = "2024.0.0"
 dependencies = [
-    "setuptools==80.9.0",
+    "setuptools==83.0.0",
     "flake8== 7.3.0",
     "numpy==2.3.4",
     "pandas==2.3.3",
